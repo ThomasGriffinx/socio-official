@@ -13,7 +13,7 @@
 <body>
   <nav class="white" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="#" class="brand-logo">SOCIO</a>
+      <a id="logo-container" href="#" class="brand-logo">SOCIO - OFFICIAL</a>
       <ul class="right hide-on-med-and-down">
       </ul>
 
@@ -25,7 +25,7 @@
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h1 class="header center teal-text text-lighten-2">Save Me - New E.P.</h1>
+        <h1 class="header center white-text text-lighten-2">'Save Me' - New E.P.</h1>
         <div class="row center">
           <h5 class="header col s12 light">SOCIO</h5>
         </div>
