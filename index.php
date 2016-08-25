@@ -18,7 +18,7 @@
         <br><br>
         <h1 class="header center white-text text-lighten-2">'Save Me' - New E.P.</h1>
         <div class="row center">
-          <h5 class="header col s12 light">By SOCIO -COMING SOON-</h5>
+          <h5 class="header col s12 light">By SOCIO</h5>
         </div>
         <div class="row center">
           <a href="/dashboard.php" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Demo Version Here</a>
@@ -37,7 +37,7 @@
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
-          <h5 class="header col s12 light">E.P. to be released early September 2016</h5>
+          <h5 class="header col s12 light">Coming Early September 2016</h5>
         </div>
       </div>
     </div>
