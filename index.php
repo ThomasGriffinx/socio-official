@@ -21,7 +21,7 @@
           <h5 class="header col s12 light">By SOCIO</h5>
         </div>
         <div class="row center">
-          <a href="/dashboard.php" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Demo Version Here</a>
+          <a href="#" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">BUY NOW</a>
         </div>
         <br><br>
 
