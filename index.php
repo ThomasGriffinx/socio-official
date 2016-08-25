@@ -11,15 +11,6 @@
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
-  <nav class="white" role="navigation">
-    <div class="nav-wrapper container">
-      <a id="logo-container" href="#" class="brand-logo">SOCIO - OFFICIAL</a>
-      <ul class="right hide-on-med-and-down">
-      </ul>
-
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">Menu</i></a>
-    </div>
-  </nav>
 
   <div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">
@@ -27,10 +18,10 @@
         <br><br>
         <h1 class="header center white-text text-lighten-2">'Save Me' - New E.P.</h1>
         <div class="row center">
-          <h5 class="header col s12 light">SOCIO</h5>
+          <h5 class="header col s12 light">By SOCIO -COMING SOON-</h5>
         </div>
         <div class="row center">
-          <a href="/dashboard.php" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">BUY NOW</a>
+          <a href="/dashboard.php" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Demo Version Here</a>
         </div>
         <br><br>
 
@@ -40,48 +31,13 @@
   </div>
 
 
-  <div class="container">
-    <div class="section">
-
-      <!--   Icon Section   -->
-      <div class="row">
-        <div class="col s12 m4">
-          <div class="icon-block">
-            <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2>
-            <h5 class="center">Itunes ICON to go here</h5>
-
-            <p class="light">Give me some words</p>
-          </div>
-        </div>
-
-        <div class="col s12 m4">
-          <div class="icon-block">
-            <h2 class="center brown-text"><i class="material-icons">group</i></h2>
-            <h5 class="center">Spotify ICON to go here</h5>
-
-            <p class="light">words words words</p>
-          </div>
-        </div>
-
-        <div class="col s12 m4">
-          <div class="icon-block">
-            <h2 class="center brown-text"><i class="material-icons">settings</i></h2>
-            <h5 class="center">Youtube ICON to go here</h5>
-
-            <p class="light">words words words</p>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
 
 
   <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
-          <h5 class="header col s12 light">E.P. release date here</h5>
+          <h5 class="header col s12 light">E.P. to be released early September 2016</h5>
         </div>
       </div>
     </div>
