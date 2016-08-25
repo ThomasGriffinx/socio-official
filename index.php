@@ -16,10 +16,10 @@
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
-          <h5 class="header col s12 light">'SAVE ME' New E.P</h5>
+          <h1 class="header col s12 light">'SAVE ME' New E.P</h1>
         </div>
           <div class="row center">
-          <h5 class="header col s12 light">'By SOCIO</h5>
+          <h2 class="header col s12 light">SOCIO</h2>
         </div>
       </div>
     </div>
