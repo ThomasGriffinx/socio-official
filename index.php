@@ -12,19 +12,15 @@
 </head>
 <body>
 
-  <div id="index-banner" class="parallax-container">
+  <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
       <div class="container">
-        <br><br>
-        <h1 class="header center white-text text-lighten-2">'Save Me' - New E.P.</h1>
         <div class="row center">
-          <h5 class="header col s12 light">By SOCIO</h5>
+          <h5 class="header col s12 light">'SAVE ME' New E.P</h5>
         </div>
-        <div class="row center">
-          <a href="#" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">BUY NOW</a>
+          <div class="row center">
+          <h5 class="header col s12 light">'By SOCIO</h5>
         </div>
-        <br><br>
-
       </div>
     </div>
     <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
