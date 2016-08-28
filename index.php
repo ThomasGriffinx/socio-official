@@ -13,22 +13,39 @@
 <body>
 
 
-
-
-
-  <div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <div class="row center">
-           <div class="row center">
-          <h1 class="header col s12 light">'SAVE ME' New E.P</h1>
+  <div class="row">
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2>
+            <h5 class="center">Yotube</h5>
+            <p class="light"></p>
+          </div>
         </div>
-          <div class="row center">
-          <h2 class="header col s12 light">by SOCIO</h2>
+     
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">group</i></h2>
+            <h5 class="center">Itunes</h5>
+
+            <p class="light"></p>
+          </div>
         </div>
+
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">settings</i></h2>
+            <h5 class="center">Spotify</h5>
+
+            <p class="light"></p>
+          </div>
+        </div>
+      </div>
+
     </div>
-    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
   </div>
+
+  <br> </br>
 
  <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
@@ -39,7 +56,7 @@
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 2"></div>
+    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
   </div>
 
 
