@@ -13,6 +13,25 @@
 <body>
 
 
+ <div class="parallax-container valign-wrapper">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <div class="row center">
+           <div class="row center">
+          <h5 class="header col s12 light">'Save Me' New E.P</h5>
+        </div>
+            <h5 class="header col s12 light">By SOCIO</h5>
+        </div>
+          <div class="row center">
+          <a href="/dashboard.php" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Buy It Now</a>
+        </div>
+      </div>
+    </div>
+    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
+  </div>
+
+
+
   <div class="row">
         <div class="col s12 m4">
           <div class="icon-block">
@@ -47,22 +66,6 @@
 
   <br> </br>
 
- <div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <div class="row center">
-           <div class="row center">
-          <h5 class="header col s12 light">'Save Me' New E.P</h5>
-        </div>
-            <h5 class="header col s12 light">By SOCIO</h5>
-        </div>
-            <div class="row center">
-          <h5 class="header col s12 light">Coming Early September 2016</h5>
-        </div>
-      </div>
-    </div>
-    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
-  </div>
 
 
 
