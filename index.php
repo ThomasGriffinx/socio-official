@@ -17,7 +17,7 @@
         <div class="col s12 m4">
           <div class="icon-block">
             <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2>
-            <h5 class="center">Yotube</h5>
+            <h5 class="center">Youtube</h5>
             <p class="light"></p>
           </div>
         </div>
@@ -52,6 +52,11 @@
       <div class="container">
         <div class="row center">
            <div class="row center">
+          <h5 class="header col s12 light">'Save Me' New E.P</h5>
+        </div>
+            <h5 class="header col s12 light">By SOCIO</h5>
+        </div>
+            <div class="row center">
           <h5 class="header col s12 light">Coming Early September 2016</h5>
         </div>
       </div>
