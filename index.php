@@ -14,7 +14,7 @@
 
   	/* Temporary CSS fix */
  	 position: fixed;
- 	 top: 50%;
+ 	 top: 70%;
   	left: 50%;
   	/* bring your own prefixes */
   	transform: translate(-50%, -50%);
