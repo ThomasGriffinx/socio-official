@@ -9,6 +9,17 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  			<style type="text/css">
+  				.centered {
+
+  	/* Temporary CSS fix */
+ 	 position: fixed;
+ 	 top: 50%;
+  	left: 50%;
+  	/* bring your own prefixes */
+  	transform: translate(-50%, -50%);
+}
+  			</style>
 </head>
 <body>
 
@@ -36,9 +47,9 @@
 
   <br> </br>
 
-
+<div class="centered">
   <img src="stores.png" alt="Unsplashed background img 2">
-
+</div>
 
 
 
