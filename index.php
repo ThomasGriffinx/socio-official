@@ -23,7 +23,7 @@
             <h5 class="header col s12 light">By SOCIO</h5>
         </div>
           <div class="row center">
-          <a href="/dashboard.php" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Buy It Now</a>
+          <a href="#" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Coming Soon!</a>
         </div>
       </div>
     </div>
@@ -32,39 +32,12 @@
 
 
 
-  <div class="row">
-        <div class="col s12 m4">
-          <div class="icon-block">
-            <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2>
-            <h5 class="center">Youtube</h5>
-            <p class="light"></p>
-          </div>
-        </div>
-     
-        <div class="col s12 m4">
-          <div class="icon-block">
-            <h2 class="center brown-text"><i class="material-icons">group</i></h2>
-            <h5 class="center">Itunes</h5>
 
-            <p class="light"></p>
-          </div>
-        </div>
-
-
-        <div class="col s12 m4">
-          <div class="icon-block">
-            <h2 class="center brown-text"><i class="material-icons">settings</i></h2>
-            <h5 class="center">Spotify</h5>
-
-            <p class="light"></p>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
 
   <br> </br>
+
+
+  <img src="stores.png" alt="Unsplashed background img 2">
 
 
 
@@ -81,7 +54,6 @@
   <?php
 # This function reads your DATABASE_URL configuration automatically set by Heroku
 # the return value is a string that will work with pg_connect
- // $db = pg_connect('dbname=d81a53c7aurso7 host=ec2-54-228-219-2.eu-west-1.compute.amazonaws.com port=5432 user=qgljwvgpvqdmos password=4WgnfX2SVmyfod0LzIrLzQMh9C sslmode=require');
 
    
         ?> 
