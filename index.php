@@ -10,7 +10,7 @@
 .responsive-image {
   height: auto;
   width: 100%;
-	margin-left: 200px;
+	margin-left: 400px;
 }
 </style>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -45,9 +45,14 @@
   <br> </br>
 
 
-<div class="responsive-image">
-<img src="SOCIO-SAVE ME ARTWORK.png" alt="Unsplashed background img 2"></div>
-</div>
+ <div class="parallax-container valign-wrapper">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <div class="row center">
+      </div>
+    </div>
+    <div class="parallax"><img src="banner.jpg" alt="Unsplashed background img 2"></div>
+  </div>
 
 
 
