@@ -10,7 +10,7 @@
 .responsive-image {
   height: auto;
   width: 100%;
-	margin-left: 100px;
+	margin-left: 200px;
 }
 </style>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
