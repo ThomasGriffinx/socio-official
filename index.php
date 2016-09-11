@@ -42,10 +42,23 @@
 
 
   <br> </br>
+
+
+ <div class="parallax-container valign-wrapper">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <div class="row center">
+      </div>
+    </div>
+    <div class="parallax"><img src="banner.jpg" alt="Unsplashed background img 2"></div>
+  </div>
+
+
+<!--
 <div class="responsive-image">
 <img src="banner.jpg" alt="Unsplashed background img 2">
  </div> 
-
+-->
 
 
   <!--  Scripts-->
