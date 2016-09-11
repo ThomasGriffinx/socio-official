@@ -6,6 +6,12 @@
   <title>SOCIO - Official</title>
 
   <!-- CSS  -->
+<style>
+.responsive-image {
+  height: auto;
+  width: 100%;
+}
+</style>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
@@ -38,17 +44,9 @@
   <br> </br>
 
 
-
- <div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <div class="row center">
-      </div>
-    </div>
-    <div class="parallax"><img src="SOCIO-SAVE ME ARTWORK.png" alt="Unsplashed background img 2"></div>
-  </div>
-
-
+<div class="responsive-image">
+<img src="SOCIO-SAVE ME ARTWORK.png" alt="Unsplashed background img 2"></div>
+</div>
 
 
 
