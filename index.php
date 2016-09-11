@@ -30,12 +30,15 @@
         <div class="row center">
            <div class="row center">
           <h5 class="header col s12 light">'Save Me' New E.P</h5>
+        </div>
+            <h5 class="header col s12 light">By SOCIO</h5>
+        </div>
           <div class="row center">
           <a href="#" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Coming Soon!</a>
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="SOCIO-SAVE ME ARTWORK.jpg" alt="Unsplashed background img 2"></div>
+    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
   </div>
 
 
@@ -48,18 +51,6 @@
   <img src="stores.png" alt="Unsplashed background img 2">
 </div>
 
-<br> </br>
-
- <div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <div class="row center">
-            <h5 class="header col s12 light">SOCIO</h5>
-        </div>
-      </div>
-    </div>
-    <div class="parallax"><img src="background2.png" alt="Unsplashed background img 2"></div>
-  </div>
 
 
 
