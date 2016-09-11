@@ -39,19 +39,16 @@
 
 
 
-
-  <div id="index-banner" class="parallax-container">
+ <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
       <div class="container">
-        <h1 class="header center white-text"></h1>
         <div class="row center">
-          <h5 class="header col s12 light"></h5>
-        </div>
-        <br><br>
       </div>
     </div>
-    <div class="parallax"><img src="SOCIO-SAVE ME ARTWORK.png" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="SOCIO-SAVE ME ARTWORK.png" alt="Unsplashed background img 2"></div>
   </div>
+
+
 
 
 
