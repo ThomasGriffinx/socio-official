@@ -50,7 +50,7 @@
         <br><br>
       </div>
     </div>
-    <div class="parallax"><img src="SOCIO-SAVE ME ARTWORK.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="SOCIO-SAVE ME ARTWORK.png" alt="Unsplashed background img 1"></div>
   </div>
 
 
