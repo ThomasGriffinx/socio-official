@@ -30,7 +30,7 @@
             <h5 class="header col s12 light">By SOCIO</h5>
         </div>
           <div class="row center">
-          <a href="#" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Coming Soon!</a>
+          <a href="https://itunes.apple.com/album/id1154163561?ls=1&app=itunes" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Buy It Here!</a>
         </div>
       </div>
     </div>
