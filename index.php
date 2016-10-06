@@ -30,11 +30,11 @@
             <h5 class="header col s12 light">By SOCIO</h5>
         </div>
           <div class="row center">
-          <a href="https://itunes.apple.com/album/id1154163561?ls=1&app=itunes" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Buy It Here!</a>
+          <a href="https://itunes.apple.com/album/id1154163561?ls=1&app=itunes" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">iTunes</a>
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
+    <div class="parallax"><img src="background2.png" alt="Unsplashed background img 2"></div>
   </div>
 
 
