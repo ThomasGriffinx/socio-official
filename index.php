@@ -25,18 +25,31 @@
       <div class="container">
         <div class="row center">
            <div class="row center">
-          <h1 class="header col s12 light">'Save Me' New E.P</h1>
+          <h1 class="header col s12 light"></h1>
         </div>
-            <h1 class="header col s12 light">By SOCIO</h1>
-        </div>
-          <div class="row center">
-          <a href="https://itunes.apple.com/album/id1154163561?ls=1&app=itunes" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Buy</a>
+            <h1 class="header col s12 light"></h1>
         </div>
       </div>
     </div>
     <div class="parallax"><img src="banner.jpg" alt="Unsplashed background img 2"></div>
   </div>
 
+
+ <div class="parallax-container valign-wrapper">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <div class="row center">
+           <div class="row center">
+          <h1 class="header col s12 light"></h1>
+        </div>
+            <h1 class="header col s12 light"></h1>
+        </div>
+          <div class="row center">
+          <a href="https://itunes.apple.com/album/id1154163561?ls=1&app=itunes" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Buy</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
 
 
