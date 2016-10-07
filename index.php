@@ -37,12 +37,7 @@
     <div class="parallax"><img src="banner.jpg" alt="Unsplashed background img 2"></div>
   </div>
 
-  <table align="center" style="text-align:center;font-size:16pt;" > 
-   <tr> 
-   <th> </th>
-   <th style="text-align:center;font-size:40pt;padding:100px;"><br/><br/> </th>
-   <th> </th>
-   </tr> 
+  <table align="center" style="text-align:center;font-size:16pt;" >  
     <tr>
         <td style="padding:30px;"><img src="amazonmusic.png" alt="Unsplashed background img 2" alt="amazon" width="75%" height="75%"/></td>
         <td style="padding:30px;"><img src="spotify.png" alt="Unsplashed background img 2" alt="amazon" width="75%" height="75%"/></td>
