@@ -38,6 +38,20 @@
   </div>
 
 
+<div class="row">
+
+      <div class="col s4">
+       <img src="amazonmusic.png" alt="Unsplashed background img 2">
+      </div>
+      <div class="col s4">
+      <img src="spotify.png" alt="Unsplashed background img 2">
+      </div>
+      <div class="col s4">
+     <img src="iTunes.png" alt="Unsplashed background img 2">
+      </div>
+
+    </div>
+
 
 
 
