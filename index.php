@@ -37,17 +37,34 @@
     <div class="parallax"><img src="banner.jpg" alt="Unsplashed background img 2"></div>
   </div>
 
+  <table align="center" style="text-align:center;font-size:16pt;" > 
+   <tr> 
+   <th> </th>
+   <th style="text-align:center;font-size:40pt;padding:100px;"><br/>Available On<br/> </th>
+   <th> </th>
+   </tr> 
+    <tr>
+        <td style="padding:30px;"><img src="amazonmusic.png" alt="Unsplashed background img 2" alt="amazon" width="75%" height="75%"/></td>
+        <td style="padding:30px;"><img src="spotify.png" alt="Unsplashed background img 2" alt="amazon" width="75%" height="75%"/></td>
+        <td style="padding:30px;"><img src="iTunes.png" alt="Unsplashed background img 2" alt="amazon" width="75%" height="75%"/></td>
+    </tr> 
+    <br/>
+    <tr> 
+        <th style="text-align:center;font-size:18pt;padding:30px;"> </th>
+        <th style="text-align:center;font-size:18pt;padding:30px;"> <br/></th>
+        <th style="text-align:center;font-size:18pt;padding:30px;"> <br/></th>
+    </tr>
+    <tr>
+    <br/>
+    </tr>
+    <tr>
+        <td style="padding:10px;">Have you noticed someone working <br/> in a team, or on a project, where they have <br/> gone above and beyond <br/> what is expected of them? </td>
+        <td style="padding:10px;">Click on the Nominate button, <br/> Fill out the form to <br/> Nominate that  <br/> person. </td>
+        <td style="padding:10px;">Upon receiving the award, <br/> track everyones progress <br/> through the  <br/> leaderboard. </td>
+    </tr>
+    </table>
 
-<div class="row">
 
-      <div class="col s4">
-       <img src="amazonmusic.png" alt="Unsplashed background img 2">
-      </div>
-      <div class="col s4">
-      <img src="spotify.png" alt="Unsplashed background img 2">
-      </div>
-      <div class="col s4">
-     <img src="iTunes.png" alt="Unsplashed background img 2">
       </div>
 
     </div>
