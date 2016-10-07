@@ -37,22 +37,27 @@
     <div class="parallax"><img src="banner.jpg" alt="Unsplashed background img 2"></div>
   </div>
 
-  <table align="center" style="text-align:center;font-size:16pt;" >  
-    <tr>
-        <td style="padding:30px;"><img src="amazonmusic.png" alt="Unsplashed background img 2" alt="amazon" width="75%" height="50%"/></td>
-        <td style="padding:30px;"><img src="spotify.png" alt="Unsplashed background img 2" alt="amazon" width="100%" height="50%"/></td>
-        <td style="padding:30px;"><img src="iTunes.png" alt="Unsplashed background img 2" alt="amazon" width="100%" height="50%"/></td>
-    </tr> 
-    <br/>
-    <tr> 
-        <th style="text-align:center;font-size:18pt;padding:30px;"> </th>
-        <th style="text-align:center;font-size:18pt;padding:30px;"> <br/></th>
-        <th style="text-align:center;font-size:18pt;padding:30px;"> <br/></th>
-    </tr>
-    <tr>
-    <br/>
-    </tr>
-    </table>
+        <div class="row">
+        <div class="col s12 m4">
+          <div class="icon-block">
+             <img src="amazonmusic.png" height="50%" width="50%">
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+           <img src="iTunes.png" height="50%" width="50%">
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+             <img src="spotify.png" height="50%" width="50%">
+        </div>
+      </div>
+
+    </div>
+  </div>
 
 
       </div>
