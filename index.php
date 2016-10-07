@@ -25,9 +25,9 @@
       <div class="container">
         <div class="row center">
            <div class="row center">
-          <h5 class="header col s12 light">'Save Me' New E.P</h5>
+          <h1 class="header col s12 light">'Save Me' New E.P</h1>
         </div>
-            <h5 class="header col s12 light">By SOCIO</h5>
+            <h1 class="header col s12 light">By SOCIO</h1>
         </div>
           <div class="row center">
           <a href="https://itunes.apple.com/album/id1154163561?ls=1&app=itunes" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Buy</a>
