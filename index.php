@@ -40,29 +40,25 @@
         <div class="row">
         <div class="col s12 m4">
           <div class="icon-block">
-             <img src="amazonmusic.png" height="50%" width="50%">
+             <img src="amazonmusic.png" height="25%" width="50%">
           </div>
         </div>
 
         <div class="col s12 m4">
           <div class="icon-block">
-           <img src="iTunes.png" height="50%" width="50%">
+           <img src="iTunes.png" height="25%" width="50%">
           </div>
         </div>
 
         <div class="col s12 m4">
           <div class="icon-block">
-             <img src="spotify.png" height="50%" width="50%">
+             <img src="spotify.png" height="25%" width="50%">
         </div>
       </div>
 
     </div>
   </div>
 
-
-      </div>
-
-    </div>
 
 
 
