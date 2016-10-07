@@ -39,9 +39,9 @@
 
   <table align="center" style="text-align:center;font-size:16pt;" >  
     <tr>
-        <td style="padding:30px;"><img src="amazonmusic.png" alt="Unsplashed background img 2" alt="amazon" width="75%" height="75%"/></td>
-        <td style="padding:30px;"><img src="spotify.png" alt="Unsplashed background img 2" alt="amazon" width="75%" height="75%"/></td>
-        <td style="padding:30px;"><img src="iTunes.png" alt="Unsplashed background img 2" alt="amazon" width="75%" height="75%"/></td>
+        <td style="padding:30px;"><img src="amazonmusic.png" alt="Unsplashed background img 2" alt="amazon" width="75%" height="50%"/></td>
+        <td style="padding:30px;"><img src="spotify.png" alt="Unsplashed background img 2" alt="amazon" width="100%" height="50%"/></td>
+        <td style="padding:30px;"><img src="iTunes.png" alt="Unsplashed background img 2" alt="amazon" width="100%" height="50%"/></td>
     </tr> 
     <br/>
     <tr> 
