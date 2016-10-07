@@ -40,7 +40,7 @@
   <table align="center" style="text-align:center;font-size:16pt;" > 
    <tr> 
    <th> </th>
-   <th style="text-align:center;font-size:40pt;padding:100px;"><br/>Available On<br/> </th>
+   <th style="text-align:center;font-size:40pt;padding:100px;"><br/><br/> </th>
    <th> </th>
    </tr> 
     <tr>
@@ -56,11 +56,6 @@
     </tr>
     <tr>
     <br/>
-    </tr>
-    <tr>
-        <td style="padding:10px;">Have you noticed someone working <br/> in a team, or on a project, where they have <br/> gone above and beyond <br/> what is expected of them? </td>
-        <td style="padding:10px;">Click on the Nominate button, <br/> Fill out the form to <br/> Nominate that  <br/> person. </td>
-        <td style="padding:10px;">Upon receiving the award, <br/> track everyones progress <br/> through the  <br/> leaderboard. </td>
     </tr>
     </table>
 
