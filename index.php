@@ -46,15 +46,11 @@
             <div class="col s12 m4 l4">
                 <div class="card">
                     <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="img/project1.jpg">
+                        <img class="activator" src="iTunes.png">
                     </div>
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">iTunes<i class="mdi-navigation-more-vert right"></i></span>
                         <p><a href="https://itunes.apple.com/album/id1154163561?ls=1&app=itunes"></a></p>
-                    </div>
-                    <div class="card-reveal">
-                        <span class="card-title grey-text text-darken-4">Project Title <i class="mdi-navigation-close right"></i></span>
-                        <p>Here is some more information about this project that is only revealed once clicked on.</p>
                     </div>
                 </div>
             </div>
