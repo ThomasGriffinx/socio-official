@@ -59,8 +59,9 @@
             <div class="col s12 m4 l4">
                 <div class="card">
                     <div class="card-image waves-effect waves-block waves-light">
-
+                      <a href="https://www.amazon.co.uk/Save-Me-Socio/dp/B01LZH8WSM/ref=sr_1_1?s=dmusic&ie=UTF8&qid=1476019863&sr=1-1-mp3-albums-bar-strip-0&keywords=save+me+socio">
                         <img class="activator" src="amazonmusic.png">
+                        </a>
                     </div>
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">Amazon Music<i class="mdi-navigation-more-vert right"></i></span>
@@ -71,7 +72,9 @@
             <div class="col s12 m4 l4">
                 <div class="card">
                     <div class="card-image waves-effect waves-block waves-light">
+                    <a href="https://play.spotify.com/album/0RCzakXMp1d8WXUmnXtMIb?play=true&utm_source=open.spotify.com&utm_medium=open">
                         <img class="activator" src="spotify.png">
+                        </a>
                     </div>
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">Spotify<i class="mdi-navigation-more-vert right"></i></span>
