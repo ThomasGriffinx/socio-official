@@ -13,6 +13,11 @@
   padding: 0;
 }
 
+img {
+
+	width: 100%;
+}
+
 .img-container {
   min-height: 400px;
   width: 100%;
@@ -97,7 +102,7 @@
         </div>
     </div>
 </div>
- <div class="img-container"><img src = "back2.jpg width="100%""></div>
+ <div class="img-container"><img src = "back2.jpg"></div>
 
 
   <!--  Scripts-->
