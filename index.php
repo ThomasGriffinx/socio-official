@@ -37,20 +37,6 @@
     <div class="parallax"><img src="banner.jpg" alt="Unsplashed background img 2"></div>
   </div>
 
-   <div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <div class="row center">
-           <div class="row center">
-          <h1 class="header col s12 light"></h1>
-        </div>
-            <h1 class="header col s12 light"></h1>
-        </div>
-      </div>
-    </div>
-    <div class="parallax"><img src="back2.jpg" alt="Unsplashed background img 2"></div>
-  </div>
-
 <!--Work-->
 <div class="section scrollspy" id="work">
     <div class="container">
@@ -101,7 +87,19 @@
         </div>
     </div>
 </div>
-
+   <div class="parallax-container valign-wrapper">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <div class="row center">
+           <div class="row center">
+          <h1 class="header col s12 light"></h1>
+        </div>
+            <h1 class="header col s12 light"></h1>
+        </div>
+      </div>
+    </div>
+    <div class="parallax"><img src="back2.jpg" alt="Unsplashed background img 2"></div>
+  </div>
 
 
   <!--  Scripts-->
