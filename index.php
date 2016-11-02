@@ -9,13 +9,14 @@
 <style>
 * {
   box-sizing: border-box;
+  width: 100%;
   margin: 0;
   padding: 0;
 }
 
 .img-container {
   min-height: 400px;
-  background-image: url(http://lorempixel.com/1800/400/);
+  width: 100%;
   background-repeat: no-repeat;
   background-size: 1800px 400px;
   background-position: center top;
