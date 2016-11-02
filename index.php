@@ -16,6 +16,7 @@
 img {
 
 	width: 100%;
+	height: 50%;
 }
 
 .img-container {
@@ -51,6 +52,8 @@ img {
     </div>
     <div class="parallax"><img src="banner.jpg" alt="Unsplashed background img 2"></div>
   </div>
+
+  
 
 <!--Work-->
 <div class="section scrollspy" id="work">
