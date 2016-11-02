@@ -97,7 +97,7 @@
         </div>
     </div>
 </div>
- <div class="img-container"><img src = "back2.jpg"></div>
+ <div class="img-container"><img src = "back2.jpg width="100%""></div>
 
 
   <!--  Scripts-->
