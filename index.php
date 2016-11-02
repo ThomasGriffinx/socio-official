@@ -8,8 +8,7 @@
   <!-- CSS  -->
 <style>
 * {
-  box-sizing: border-box;
-  width: 100%;
+  box-sizing: border-box;		
   margin: 0;
   padding: 0;
 }
