@@ -7,9 +7,19 @@
 
   <!-- CSS  -->
 <style>
-.responsive-image {
-  height: auto;
-  width: 100%;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.img-container {
+  min-height: 400px;
+  background-image: url(http://lorempixel.com/1800/400/);
+  background-repeat: no-repeat;
+  background-size: 1800px 400px;
+  background-position: center top;
+  /*padding: 40px; (If don't want to set min-height or some image content is there) */
 }
 </style>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -87,12 +97,7 @@
         </div>
     </div>
 </div>
-   <div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-    </div>
-    <div class="parallax"><img src="back2.jpg" alt="Unsplashed background img 2"></div>
-  </div>
+ <div class="img-container"><img src = "back2.jpg"></div>
 
 
   <!--  Scripts-->
