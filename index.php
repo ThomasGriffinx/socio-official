@@ -1,123 +1,155 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-  <title>SOCIO - Official</title>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>socio - official</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
 
-  <!-- CSS  -->
-<style>
-* {
-  box-sizing: border-box;		
-  margin: 0;
-  padding: 0;
-}
+		<!-- Sidebar -->
+			<section id="sidebar">
+				<div class="inner">
+					<nav>
+						<ul>
+							<li><a href="#intro">socio</a></li>
+							<li><a href="#one">Shop and Stream</a></li>
+                            <li><a href="#two">Contact</a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>
 
-img {
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-	width: 100%;
-	
-}
+				<!-- Intro -->
+					<section id="intro" class="wrapper style1 fullscreen fade-up">
+						<div class="inner">
+							<h1>socio</h1>
+                            <p>Debut E.P. 'Save Me' Available from all major digital distributors</p>
+                            <br> </br>
+							<ul class="actions">
+								<li><a href="http://itunes.apple.com/album/id1154163561?ls=1&app=itunes" class="button scrolly">Buy on iTunes</a></li>
+							</ul>
+						</div>
+					</section>
 
-.img-container {
-  min-height: 400px;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-size: 1800px 400px;
-  background-position: center top;
-  /*padding: 40px; (If don't want to set min-height or some image content is there) */
-}
-</style>
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+				<!-- One -->
+					<section id="one" class="wrapper style2 spotlights">
+						<section>
+							<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Amazon Music</h2>
+									<p>Buy the debut E.P.'Save Me' on Amazon Music</p>
+									<ul class="actions">
+										<li><a href="#" class="button">Buy</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Spotify</h2>
+									<p>Listen to 'Save Me' on Spotify.</p>
+									<ul class="actions">
+										<li><a href="#" class="button">Listen</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>iTunes</h2>
+									<p>Buy the debut E.P. 'Save Me' on iTunes</p>
+									<ul class="actions">
+										<li><a href="#" class="button">Buy</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+					</section>
 
-</head>
-<body>
+				<!-- Two -->
+					<section id="two" class="wrapper style3 fade-up">
+						<div class="inner">
+							<h2>What we do</h2>
+							<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
+							<div class="features">
+								<section>
+									<span class="icon major fa-code"></span>
+									<h3>Lorem ipsum amet</h3>
+									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+								</section>
+								<section>
+									<span class="icon major fa-lock"></span>
+									<h3>Aliquam sed nullam</h3>
+									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+								</section>
+								<section>
+									<span class="icon major fa-cog"></span>
+									<h3>Sed erat ullam corper</h3>
+									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+								</section>
+								<section>
+									<span class="icon major fa-desktop"></span>
+									<h3>Veroeros quis lorem</h3>
+									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+								</section>
+								<section>
+									<span class="icon major fa-chain"></span>
+									<h3>Urna quis bibendum</h3>
+									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+								</section>
+								<section>
+									<span class="icon major fa-diamond"></span>
+									<h3>Aliquam urna dapibus</h3>
+									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+								</section>
+							</div>
+							<ul class="actions">
+								<li><a href="#" class="button">Learn more</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Three -->
+				
+											<ul class="icons">
+												<li><a href="#" class="fa-twitter"><span class="label">Twitter</span></a></li>
+												<li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
+												<li><a href="#" class="fa-github"><span class="label">GitHub</span></a></li>
+												<li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li>
+												<li><a href="#" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+											</ul>
+										</li>
+									</ul>
+								</section>
+							</div>
+						</div>
+					</section>
+
+			</div>
 
 
- <div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <div class="row center">
-           <div class="row center">
-          <h1 class="header col s12 light"></h1>
-        </div>
-            <h1 class="header col s12 light"></h1>
-        </div>
-          <div class="row center">
-          <a href="https://itunes.apple.com/album/id1154163561?ls=1&app=itunes" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Buy</a>
-        </div>
-      </div>
-    </div>
-    <div class="parallax"><img src="banner.jpg" alt="Unsplashed background img 2"></div>
-  </div>
 
-<!--Work-->
-<div class="section scrollspy" id="work">
-    <div class="container">
-        <h2 class="header text_b">Available On</h2>
-        <div class="row">
-            <div class="col s12 m4 l4">
-                <div class="card">
-                    <div class="card-image waves-effect waves-block waves-light">
-                    <a href="https://itunes.apple.com/album/id1154163561?ls=1&app=itunes">
-                        <img class="activator" src="iTunes.png">
-                        </a>
-                    </div>
-                    <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">iTunes<i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href="https://itunes.apple.com/album/id1154163561?ls=1&app=itunes"></a></p>
-                    </div>
-                </div>
-            </div>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
 
-            <div class="col s12 m4 l4">
-                <div class="card">
-                    <div class="card-image waves-effect waves-block waves-light">
-                      <a href="https://www.amazon.co.uk/Save-Me-Socio/dp/B01LZH8WSM/ref=sr_1_1?s=dmusic&ie=UTF8&qid=1476019863&sr=1-1-mp3-albums-bar-strip-0&keywords=save+me+socio">
-                        <img class="activator" src="amazonmusic.png">
-                        </a>
-                    </div>
-                    <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Amazon Music<i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href="#"></a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m4 l4">
-                <div class="card">
-                    <div class="card-image waves-effect waves-block waves-light">
-                    <a href="https://play.spotify.com/album/0RCzakXMp1d8WXUmnXtMIb?play=true&utm_source=open.spotify.com&utm_medium=open">
-                        <img class="activator" src="spotify.png">
-                        </a>
-                    </div>
-                    <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Spotify<i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href="#"></a></p>
-                    </div>
-                </div>
-            </div>
-           
-            </div>
-        </div>
-    </div>
-</div>
- <div class="img-container"><img src = "back2.jpg"></div>
-
-
-  <!--  Scripts-->
-  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-  <script src="js/materialize.js"></script>
-  <script src="js/init.js"></script>
-
-  </body>
-
-
-  <?php
-# This function reads your DATABASE_URL configuration automatically set by Heroku
-# the return value is a string that will work with pg_connect
-
-   
-        ?> 
+	</body>
 </html>
