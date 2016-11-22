@@ -16,7 +16,6 @@
 				<div class="inner">
 					<nav>
 						<ul>
-							<li><a href="#intro">socio</a></li>
 							<li><a href="#one">Shop and Stream</a></li>
 						</ul>
 					</nav>
@@ -27,16 +26,7 @@
 			<div id="wrapper">
 
 				<!-- Intro -->
-					<section id="intro" class="wrapper style1 fullscreen fade-up">
-						<div class="inner">
-							<h1>socio</h1>
-                            <p>Debut E.P. 'Save Me' Available from all major digital distributors</p>
-                            <br> </br>
-							<ul class="actions">
-								<li><a href="http://itunes.apple.com/album/id1154163561?ls=1&app=itunes" class="button scrolly">Buy on iTunes</a></li>
-							</ul>
-						</div>
-					</section>
+
 
 				<!-- One -->
 					<section id="one" class="wrapper style2 spotlights">
@@ -45,7 +35,7 @@
 							<div class="content">
 								<div class="inner">
 									<h2>Amazon Music</h2>
-									<p>Buy the debut E.P.'Save Me' on Amazon Music</p>
+									<p>Buy the debut E.P. 'Save Me' on Amazon Music</p>
 									<ul class="actions">
 										<li><a href="https://www.amazon.co.uk/Save-Me-Socio/dp/B01LZH8WSM/ref=sr_1_1?s=dmusic&ie=UTF8&qid=1479826617&sr=1-1-mp3-albums-bar-strip-0&keywords=socio+save+me" class="button">Buy</a></li>
 									</ul>
